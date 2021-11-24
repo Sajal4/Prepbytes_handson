@@ -1,0 +1,27 @@
+h1 {
+    color: orangered;
+    letter-spacing: -2px;
+  }
+  h2 {
+    color: orangered;
+    font-style: italic;
+  }
+  p {
+    color: maroon;
+  }
+  #list1-item3 {
+    text-decoration: underline;
+    font-style: italic;
+  }
+  .background-color-yellow {
+    background-color: yellow;
+  }
+  .line-through {
+    text-decoration: line-through;
+  }
+  .text-spacing {
+    letter-spacing: 5px;
+  }
+  .line-height {
+    line-height: 50px;
+  }
