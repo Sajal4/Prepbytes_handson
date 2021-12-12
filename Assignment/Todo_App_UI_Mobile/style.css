@@ -4,11 +4,11 @@ body{
     flex-wrap: wrap;
 }
 .ui{
-    margin: 12% 35%;
+    margin: 5% 20%;
     height: 480px;
 }
 .ui-new-list{
-    margin: 12% 35%;
+    margin: 5% 20%;
     height: 480px;
     filter: blur(10px);
 }
